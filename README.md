@@ -15,4 +15,3 @@ Analysis of the model's feature importance revealed that the classification heav
 
 In conclusion, the project validates that a highly efficient production-ready solution can be created based on a few key flow-based features, enabling network security devices to implement a low-latency defense layer.However, the overly optimistic results and reliance on simple volumetric features highlight the need for further validation.Future work must focus on validating the models against a live or real-world stream of traffic to obtain realistic performance measures (expected AUC of 0.80-0.95) and implementing advanced feature engineering to include time-series or flow-level behavioral features, forcing the model to learn more robust, subtle patterns than simple volume counts.
 
-Would you like to know more about the **Real-Time DDoS Traffic Dataset** used in this research?
